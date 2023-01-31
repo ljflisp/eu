@@ -1,2 +1,4 @@
 :set prompt "\ESC[33m\x02\x01\ESC[00m "
-:set prompt-cont "|\ESC[33m\x02\x01\ESC[00m "
+#重新编译
+:set prompt-cont "|\ESC[33m\x02\x01\
+#turn out
